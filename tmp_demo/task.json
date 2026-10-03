@@ -1,0 +1,1 @@
+{"sources": [{"id": "a", "path": "a.wav"}], "clips": [{"id": "c1", "source": "a", "source_start": 0, "source_end": 2, "output_start": 0, "gain": 1.0}, {"id": "c2", "source": "a", "source_start": 1, "source_end": 4, "output_start": 1, "gain": 1.0}]}

@@ -1,0 +1,11 @@
+{
+  "frames": 4,
+  "sample_rate": 48000,
+  "channels": [
+    {
+      "clipped_samples": 1,
+      "peak_abs": 32767,
+      "rms": 19200.757237671645
+    }
+  ]
+}
